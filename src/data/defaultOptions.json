@@ -1,0 +1,11 @@
+[
+  {
+    "label": "Option 1",
+    "familyDefinition": "EMP",
+    "employees": 100,
+    "dependents": 100,
+    "totalLives": 200,
+    "sumInsured": 200000,
+    "comments": ""
+  }
+]
