@@ -4,4 +4,4 @@ npm install
 npm run dev
 
 ## Netlify deployment link
-zingy-otter-98dd49.netlify.app
+## zingy-otter-98dd49.netlify.app
