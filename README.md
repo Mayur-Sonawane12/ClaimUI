@@ -1,5 +1,6 @@
 # Claims Information Panel
 ## Setup
+``bash
 npm install
 npm start
 
